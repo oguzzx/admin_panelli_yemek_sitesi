@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "name": "Margherita",
+    "ingredients": "Tomato sauce, cheese, oregano",
+    "price": "22.99"
+  },
+  {
+    "id": "2",
+    "name": "Pepperoni",
+    "ingredients": "Tomato sauce, cheese, pepperoni",
+    "price": "25.99"
+  },
+  {
+    "id": "3",
+    "name": "Hawaiian",
+    "ingredients": "Tomato sauce, cheese, ham, pineapple",
+    "price": "27.99"
+  },
+  {
+    "id": "4",
+    "name": "Meat Lovers",
+    "ingredients": "Tomato sauce, cheese, pepperoni, ham, sausage, bacon",
+    "price": "29.99"
+  },
+  {
+    "id": "5",
+    "name": "Veggie",
+    "ingredients": "Tomato sauce, cheese, mushrooms, olives, onions, peppers",
+    "price": "24.99"
+  }
+]
+
