@@ -1,7 +1,7 @@
 reactjs kullanarak kendimi geliştirmek için yapmış olduğum projedir. admin paneli mantığında yaptım herhangi bir veri tabanı kullanmadım . kayıtlı kullanıcı adı ve şifre girilerek ürün listesinden ürün ekleyip çıkartılabilir veya ürünün içeriği değiştirilebilir . ana sayfada ürünleri gösteren slider kullandım . react router yapısını ve fontawesome eklentisini  kullandım .   
 
 
-css kısmında fazla üstünde durmadım. 
+css kısmında fazla üstünde durmadım.  
 
 
 ![image](https://user-images.githubusercontent.com/110103127/197521250-938c6a39-4568-4747-b284-cfcbbe4ebc75.png)
