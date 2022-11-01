@@ -3,6 +3,9 @@ reactjs kullanarak kendimi geliştirmek için yapmış olduğum projedir. admin 
 
 css kısmında fazla üstünde durmadım.  
 
+deploy : https://roaring-faloodeh-ac84b0.netlify.app
+login için kullanıcı adı : test  şifre : 1234
+
 
 ![image](https://user-images.githubusercontent.com/110103127/197521250-938c6a39-4568-4747-b284-cfcbbe4ebc75.png)
 
